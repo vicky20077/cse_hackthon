@@ -1,0 +1,12 @@
+# Supabase Configuration
+NEXT_PUBLIC_SUPABASE_URL=https://your-project.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
+SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
+
+# AI Provider API Keys (Never exposed to client)
+GEMINI_API_KEY=
+OPENAI_API_KEY=
+
+# App Environment
+NEXT_PUBLIC_APP_URL=http://localhost:3000
+NEXT_PUBLIC_DEMO_MODE=true
